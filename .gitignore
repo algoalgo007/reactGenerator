@@ -39,8 +39,5 @@ out/
 ### oauth ###
 application-oauth.yml
 
-### jwt ###
-application-jwt.yml
-
 ### gpt ###
 application-gpt.yml
