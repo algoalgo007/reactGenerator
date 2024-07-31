@@ -1,4 +1,10 @@
 spring:
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: ture
+    defer-datasource-initialization: true
   security:
     oauth2:
       client:
