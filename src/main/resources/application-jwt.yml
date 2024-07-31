@@ -1,3 +1,0 @@
-jwt:
-  issuer: kiki
-  secret_key: kikisecret

@@ -23,4 +23,6 @@ spring:
     include:
       - gpt
       - jwt
-      - oauth
+jwt:
+  issuer: kiki
+  secret_key: kikisecret
